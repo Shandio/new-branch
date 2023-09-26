@@ -1,2 +1,2 @@
-# new-branch
-ini adalah repository untuk latihan membuat branch baru di GitHub.
+# learn new branch
+ini adalah repository master
