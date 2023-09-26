@@ -1,2 +1,2 @@
 # new-branch
-belajar membuat branch baru
+ini adalah repository untuk latihan membuat branch baru di GitHub.
